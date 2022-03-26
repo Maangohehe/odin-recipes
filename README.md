@@ -1,2 +1,2 @@
 # odin-recipes
-The first HTML Project assigned by The Odin Project. I should be creating a recipe webpage using HTML.
+The first HTML Project assigned by The Odin Project. I should be creating a recipe webpage using HTML. I have learned the use of GitHub and Git along with that I have also learned version control and how it works. I was always scared of using the terminal but now, I am enjoying using it and it is making things really easy for me. Back to the project, I need to make sure this HTML project is completed with my best effort.
